@@ -10,7 +10,7 @@ import jakarta.persistence.*;
 @Table(name="city")
 public class City {
 
-	
+	//q
 	@Id
 	@Column(name="ID")
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
